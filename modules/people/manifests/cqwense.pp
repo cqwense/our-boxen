@@ -13,4 +13,9 @@ class people::cqwense {
     package { "go":
         ensure => present,
     }
+
+    include nmap
+    include iterm2
+    include gcc
+    include tunnelblick
 }
