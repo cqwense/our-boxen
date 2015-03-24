@@ -62,13 +62,13 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 
 # From James for all
-#github "osx"
-#github "packer"
-#github "vagrant"
-#github "chrome"
-#github "iterm2"
-#github "virtualbox"
-#github "hipchat"
+github "osx"
+github "packer"
+github "vagrant"
+github "chrome"
+github "iterm2"
+github "virtualbox"
+github "hipchat"
 
 # From Me
 #github "nmap"
