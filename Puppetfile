@@ -62,6 +62,6 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 
 github "iterm2",      "1.2.4"
-github "tunnelblick", "3.3.4"
+#github "tunnelblick", "3.3.4"
 #github "gcc",         "2.2.0"
 github "nmap",        "1.0.3"
