@@ -2,16 +2,25 @@ class vonbiz {
 
     include iterm2::stable
     include tunnelblick
-    include packer
     include vagrant
     include chrome
     include virtualbox
     include hipchat
     include nmap
-    include vim
     include screen
     include tunnelblick
     include wget
-    include java
     include python
+
+    package { 'vim':
+        ensure => present,
+    }
+
+    package { 'java':
+        ensure => present,
+    }
+
+    package { 'packer':
+        ensure => present,
+    }
 }

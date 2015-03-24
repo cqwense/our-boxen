@@ -63,7 +63,8 @@ github "xquartz",     "1.2.1"
 
 # From James for all
 github "osx"
-github "packer"
+# something wrong with packer zip file downloaded
+#github "packer"
 github "vagrant"
 github "chrome"
 github "iterm2"
@@ -80,7 +81,9 @@ github "quicksilver"
 github "libreoffice"
 #github "imagemagick"
 #github "steam"
-github "vim"
+# vim module is outdated - use homebrew if you want
+# homebrew func will be tested in vonbiz/manifests/
+#github "vim"
 # i don't judge
 github "emacs"
 #github "foreman"
@@ -92,7 +95,8 @@ github "screen"
 # From Jamey
 github "tunnelblick"
 github "wget"
-github "java"
+# something wrong with java, will try homebrew
+#github "java"
 github "python"
 #github "keepassx"
 github "ctags"
