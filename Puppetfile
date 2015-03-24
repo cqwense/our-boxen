@@ -80,5 +80,5 @@ github "tunnelblick", "1.0.7"
 github "wget",        "1.0.1"
 github "java",        "1.8.2"
 github "python",      "2.0.0"
-github "keepasx",     ""
+github "keepassx",    "1.0.0"
 
