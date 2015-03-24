@@ -1,6 +1,6 @@
 class people::cqwense {
 
-    # i don't want these
+    # i don't want these running
     
     service {"dev.nginx":
         ensure => "stopped",
@@ -10,11 +10,4 @@ class people::cqwense {
         ensure => "stopped",
     }
 
-    package { "go":
-        ensure => present,
-    }
-
-    include iterm2::stable
-    include tunnelblick
-    include keepassx
 }
