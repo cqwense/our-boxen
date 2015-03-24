@@ -14,7 +14,5 @@ class people::cqwense {
         ensure => present,
     }
 
-    package { "iterm2":
-        ensure => present,
-    }
+    include iterm2::stable
 }
