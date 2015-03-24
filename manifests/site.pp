@@ -57,7 +57,7 @@ node default {
   include git
   include hub
   #include nginx
-  include von-biz
+  include vonbiz
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
