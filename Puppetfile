@@ -71,7 +71,6 @@ github "virtualbox"
 github "hipchat"
 
 # From Me
-github "gcc"
 github "nmap"
 github "mysql"
 github "android"
