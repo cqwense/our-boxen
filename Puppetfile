@@ -71,22 +71,22 @@ github "virtualbox"
 github "hipchat"
 
 # From Me
-#github "nmap"
+github "nmap"
 #github "mysql"
 #github "android"
 #github "jenkins"
 #github "postgresql"
-#github "quicksilver"
-#github "libreoffice"
+github "quicksilver"
+github "libreoffice"
 #github "imagemagick"
 #github "steam"
-#github "vim"
+github "vim"
 # i don't judge
-#github "emacs"
+github "emacs"
 #github "foreman"
 #github "chicken_of_the_vnc"
-#github "zsh"
-#github "screen"
+github "zsh"
+github "screen"
 
 
 # From Jamey
