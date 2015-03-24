@@ -14,8 +14,7 @@ class people::cqwense {
         ensure => present,
     }
 
-    include nmap
-    include iterm2
-    #include gcc
-    #include tunnelblick
+    package { "iterm2":
+        ensure => present,
+    }
 }
