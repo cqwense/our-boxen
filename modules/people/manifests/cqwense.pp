@@ -16,6 +16,6 @@ class people::cqwense {
 
     include nmap
     include iterm2
-    include gcc
-    include tunnelblick
+    #include gcc
+    #include tunnelblick
 }
