@@ -68,7 +68,7 @@ github "osx"
 github "vagrant"
 github "chrome"
 github "iterm2"
-github "virtualbox"
+github "virtualbox", "1.0.13"
 github "hipchat"
 
 # From Me
