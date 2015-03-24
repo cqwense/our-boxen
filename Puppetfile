@@ -62,23 +62,43 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 
 # From James for all
-github "osx",         "2.8.0"
-github "packer",      "0.6.1"
-github "vagrant",     "3.3.0"
-github "chrome",      "1.2.0"
-github "iterm2",      "1.2.4"
-github "virtualbox",  "1.0.13"
-github "hipchat",     "1.1.3"
-
+github "osx"
+github "packer"
+github "vagrant"
+github "chrome"
+github "iterm2"
+github "virtualbox"
+github "hipchat"
 
 # From Me
-github "gcc",         "2.2.0"
-github "nmap",        "1.0.3"
+github "gcc"
+github "nmap"
+github "mysql"
+github "android"
+github "jenkins"
+github "postgresql"
+github "quicksilver"
+github "libreoffice"
+github "imagemagick"
+github "steam"
+github "vim"
+github "emacs" # I don't judge
+github "foreman"
+github "chicken_of_the_vnc"
+github "zsh"
+github "screen"
+
 
 # From Jamey
-github "tunnelblick", "1.0.7"
-github "wget",        "1.0.1"
-github "java",        "1.8.2"
-github "python",      "2.0.0"
+github "tunnelblick"
+github "wget"
+github "java"
+github "python"
 github "keepassx"
+github "ctags"
+github "sublime_text"
+github "adium"
+github "eclipse"
+github "vlc"
+github "skype"
 
