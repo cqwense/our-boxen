@@ -82,7 +82,8 @@ github "libreoffice"
 github "imagemagick"
 github "steam"
 github "vim"
-github "emacs" # I don't judge
+# i don't judge
+github "emacs"
 github "foreman"
 github "chicken_of_the_vnc"
 github "zsh"
