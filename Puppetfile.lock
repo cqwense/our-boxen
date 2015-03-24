@@ -94,6 +94,11 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-tunnelblick
+  specs:
+    tunnelblick (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.2.1)
@@ -119,6 +124,7 @@ DEPENDENCIES
   dnsmasq (= 2.0.1)
   foreman (= 1.2.0)
   gcc (= 2.2.0)
+  gcc (= 2.2.0)
   git (= 2.7.5)
   go (= 2.1.0)
   homebrew (= 1.11.2)
@@ -136,5 +142,6 @@ DEPENDENCIES
   ruby (= 8.1.7)
   stdlib (= 4.2.1)
   sudo (= 1.0.0)
+  tunnelblick (= 1.0.0)
   xquartz (= 1.2.1)
 
