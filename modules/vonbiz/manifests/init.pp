@@ -16,11 +16,4 @@ class vonbiz {
         ensure => present,
     }
 
-    package { 'java':
-        ensure => present,
-    }
-
-    package { 'packer':
-        ensure => present,
-    }
 }
