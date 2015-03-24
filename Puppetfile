@@ -90,12 +90,12 @@ github "screen"
 
 
 # From Jamey
-#github "tunnelblick"
-#github "wget"
-#github "java"
-#github "python"
+github "tunnelblick"
+github "wget"
+github "java"
+github "python"
 #github "keepassx"
-#github "ctags"
+github "ctags"
 #github "sublime_text"
 #github "adium"
 #github "eclipse"
