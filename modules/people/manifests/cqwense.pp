@@ -16,5 +16,5 @@ class people::cqwense {
 
     include iterm2::stable
     include tunnelblick
-    include keypassx
+    include keepassx
 }
