@@ -184,7 +184,7 @@ DEPENDENCIES
   inifile (= 1.1.1)
   iterm2 (= 1.2.4)
   java (= 1.8.2)
-  keepassx (= 1.0.0)
+  keepassx (>= 0)
   module_data (= 0.0.3)
   nginx (= 1.4.4)
   nmap (= 1.0.3)
