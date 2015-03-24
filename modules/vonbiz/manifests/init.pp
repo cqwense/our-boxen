@@ -2,8 +2,6 @@ class vonbiz {
 
     include iterm2::stable
     include tunnelblick
-    include keepassx
-    include osx
     include packer
     include vagrant
     include chrome
