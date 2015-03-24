@@ -1,4 +1,4 @@
-class vonbiz::environment {
+class vonbiz {
 
     include iterm2::stable
     include tunnelblick
