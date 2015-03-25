@@ -8,9 +8,10 @@ class vonbiz {
     include hipchat
     include nmap
     include screen
-    include tunnelblick
     include wget
     include python
+    include java
+    include ctags
 
     package { 'vim':
         ensure => present,
