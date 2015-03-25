@@ -13,4 +13,8 @@ class people::cqwense {
     package {"nmap":
         ensure => "present",
     }
+
+    package {"tmux":
+        ensure => "present",
+    }
 }
