@@ -10,4 +10,7 @@ class people::cqwense {
         ensure => "stopped",
     }
 
+    package {"nmap":
+        ensure => "present",
+    }
 }
