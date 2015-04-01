@@ -1,7 +1,9 @@
 class people::cqwense {
 
     # i don't want these running
-    
+
+    include vagrant
+
     service {"dev.nginx":
         ensure => "stopped",
     }
