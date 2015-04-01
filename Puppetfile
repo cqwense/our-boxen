@@ -61,48 +61,32 @@ github "xquartz",     "1.2.1"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-# From James for all
+# boxen accepts the packer package in Puppetfile, but it fails at compile
+# time - can reseach later if its important.
+#github "packer",      "0.6.1"
+
+github "virtualbox",  "1.0.13"
+github "java",        "1.8.2"
+
+github "android"
+github "keepassx"
+github "postgresql"
+github "eclipse"
+github "vlc"
+github "skype"
 github "osx"
-# something wrong with packer zip file downloaded
-#github "packer"
 github "vagrant"
 github "chrome"
 github "iterm2"
-github "virtualbox", "1.0.13"
 github "hipchat"
-
-# From Me
 github "nmap"
-#github "mysql"
-#github "android"
-#github "jenkins"
-#github "postgresql"
 github "quicksilver"
 github "libreoffice"
-#github "imagemagick"
-#github "steam"
-# vim module is outdated - use homebrew if you want
-# homebrew func will be tested in vonbiz/manifests/
-#github "vim"
-# i don't judge
 github "emacs"
-#github "foreman"
-#github "chicken_of_the_vnc"
 github "zsh"
 github "screen"
-
-
-# From Jamey
 github "tunnelblick"
 github "wget"
-# something wrong with java, will try homebrew
-#github "java"
 github "python"
-#github "keepassx"
 github "ctags"
 github "sublime_text"
-#github "adium"
-#github "eclipse"
-#github "vlc"
-#github "skype"
-
