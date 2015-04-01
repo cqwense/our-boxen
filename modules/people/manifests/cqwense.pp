@@ -4,14 +4,6 @@ class people::cqwense {
 
     include vagrant
 
-    service {"dev.nginx":
-        ensure => "stopped",
-    }
-
-    service {"dev.dnsmasq":
-        ensure => "stopped",
-    }
-    
     include android::tools
     include android::sdk
     include quicksilver
